@@ -1,0 +1,12 @@
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.exe.config
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.exe
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.pdb
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.csprojAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.exe
+C:\Users\Abdulkadir\Desktop\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.pdb
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.exe.config
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.exe
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\bin\Debug\algoritmaanalizi.pdb
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.csprojAssemblyReference.cache
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.exe
+D:\Ram öncesi yedek\Algoritma ders kodu\Algoritma Hız Analizi\algoritmaanalizi\algoritmaanalizi\obj\Debug\algoritmaanalizi.pdb
